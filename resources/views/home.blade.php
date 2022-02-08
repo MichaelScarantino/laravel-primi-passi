@@ -7,6 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    Hello word
+    <div>
+        Hello {{ $name }} {{ $lastname }}
+    </div>
 </body>
 </html>
